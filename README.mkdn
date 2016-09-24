@@ -18,12 +18,12 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/trader418/android.git -b cm-13.0
+    $ repo init -u https://github.com/lolipero/android.git -b cm-13.0
 
 
 sync repo :
 
-    $ repo sync
+    $ repo sync --force-sync -j (numbers of core)
 
 
 Temasek Bootanimation
