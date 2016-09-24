@@ -58,7 +58,7 @@
   <project path="packages/apps/InCallUI" name="trader418/android_packages_apps_InCallUI" remote="github" revision="cm-13.0" />
   <project path="packages/apps/LockClock" name="trader418/android_packages_apps_LockClock" remote="github" revision="cm-13.0" />
   <project path="packages/apps/OmniSwitch" name="trader418/android_packages_apps_OmniSwitch" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/OTAUpdates" name="trader418/OTAUpdates" revision="aosp" />
+  <!--<project path="packages/apps/OTAUpdates" name="trader418/OTAUpdates" revision="aosp" /> -->
   <project path="packages/apps/PackageInstaller" name="trader418/android_packages_apps_PackageInstaller" remote="github" revision="cm-13.0" />
   <project path="packages/apps/PhoneCommon" name="trader418/android_packages_apps_PhoneCommon" remote="github" revision="cm-13.0" />
   <project path="packages/apps/Settings" name="trader418/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
